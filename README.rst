@@ -1,5 +1,20 @@
-===========
-Main README
-===========
+============
+Test RST
+============
 
-.. include:: sub/README.rst
+
+ To test packaging.
+
+
+* Free software: Apache Software License 2.0
+* Documentation: https://mcspypackage.readthedocs.io.
+
+
+Features
+--------
+
+* TODO
+
+Credits
+-------
+
